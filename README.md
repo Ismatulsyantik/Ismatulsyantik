@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ismatul+Izza+%F0%9F%91%8B;Data+Scientist+%7C+AI+Enthusiast;Building+impactful+ML+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ismatul+Izza+%F0%9F%91%8B;Data+Scientist+in+the+Making+%F0%9F%93%8A;Turning+Coffee+into+Code+%E2%98%95" alt="Typing introduction" />
 </p>
 
-<h1 align="center">Welcome to my portfolio</h1>
+<h1 align="center">✨ A Little About Me ✨</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -11,57 +11,48 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-## About Me
+<p align="center">
+  <em>Curious mind, kind heart, and an impressive number of browser tabs open.</em>
+</p>
 
-I am a data science enthusiast focused on transforming raw data into actionable insights and effective machine learning solutions. My work spans predictive modeling, data analysis, sentiment analysis, forecasting, and building interactive dashboards.
+## 🌷 Hello, world!
 
-I enjoy solving real-world problems using Python, statistics, and machine learning, especially in health, transportation, and public-interest data domains.
+I’m **Ismatul Izza**, a data science enthusiast who loves finding the story hidden inside a pile of data. I use Python, statistics, and machine learning to turn “Hmm, that’s interesting…” into useful insights and real-world projects.
 
-## Core Skills
+When I’m not cleaning data (why is it always messy? 🧹), I’m exploring machine learning, building dashboards, or teaching my models that “99% accuracy” is not a personality trait.
 
-- Python, Pandas, NumPy, Scikit-learn
-- Exploratory Data Analysis (EDA)
-- Machine Learning & Predictive Modeling
-- Time Series Forecasting
-- Natural Language Processing (Sentiment Analysis)
-- Data Visualization & Dashboarding with Streamlit
-- SQL and data preprocessing
-- Model evaluation and deployment concepts
+- 🔎 I enjoy exploring data and asking *“What if we try this?”*
+- 🧠 I’m learning more about machine learning, predictive modeling, and NLP.
+- 💚 I’m especially interested in healthcare, transportation, and projects that can help people.
+- ☕ Powered by curiosity, persistence, and probably coffee.
+- 🐛 Bugs and I have a close relationship. I find them; they help me grow.
 
-## Featured Projects
+## 🧰 Things I Like to Work With
 
-### 1. NutriVision
-A project focused on nutrition insight and AI-driven decision support. This is a strong example of applying data science and machine learning to a meaningful real-world problem.
+- **Languages & data:** Python, SQL, Pandas, NumPy
+- **Machine learning:** Scikit-learn, classification, predictive modeling, time series
+- **Exploration:** EDA, data preprocessing, statistics, and asking data nicely to make sense
+- **Sharing insights:** Data visualization and Streamlit dashboards
+- **Other interests:** Sentiment analysis, model evaluation, and making charts that are actually readable
 
-### 2. Arrhythmia Multiclass Classification
-A healthcare-oriented machine learning project for classifying arrhythmia types using patient data and predictive modeling.
+## 🌟 Featured Projects
 
-### 3. Streamlit Stunting Dashboard
-An interactive dashboard designed to analyze and visualize stunting-related data in a user-friendly way.
+- **NutriVision** — Nutrition insights and AI-driven decision support.
+- **Arrhythmia Multiclass Classification** — A healthcare-focused classification project using patient data.
+- **Streamlit Stunting Dashboard** — An interactive way to explore and visualize stunting-related data.
+- **Google Map Sentiment Analysis** — Exploring what reviews are really saying (politely, with NLP).
+- **Monkeypox Prediction** — Using structured data to investigate disease patterns.
+- **Weather Forecasting** — Time-series forecasting, because checking the window is not always enough.
+- **Train Reservation System** — A Python project for managing reservations and user flows.
+- **Sign Language Segmentation** — A computer vision project exploring sign language patterns.
 
-### 4. Google Map Sentiment Analysis
-Sentiment analysis project that explores customer reviews and public opinion trends using text data.
+## 🌱 What I’m Up to
 
-### 5. Monkeypox Prediction
-A machine learning project aimed at predicting monkeypox disease patterns using structured data.
+I’m growing my skills in data science and machine learning, learning how to interpret and evaluate models, and building projects that turn complex information into clear stories. One dataset at a time—no tiny data points left behind!
 
-### 6. Weather Forecasting
-Time series forecasting for weather prediction using data-driven methods and machine learning techniques.
+## 🤝 Let’s Connect
 
-### 7. Train Reservation System
-A Python-based reservation project that demonstrates practical application of data management and user flow logic.
-
-### 8. Sign Language Segmentation
-A classical computer vision and segmentation project focused on understanding sign language patterns.
-
-## Portfolio Highlights
-
-- Predictive modeling and classification projects
-- End-to-end data science workflow: cleaning, analyzing, modeling, and visualizing
-- Real-world problem solving with healthcare, sentiment, and forecasting use cases
-- Interactive dashboards for decision-making support
-
-## GitHub Statistics
+I’m open to internships, collaborations, and opportunities to learn and contribute in **data science, AI, and machine learning**. If you’re working on something meaningful, I’d love to hear about it!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ismatulsyantik&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -71,24 +62,9 @@ A classical computer vision and segmentation project focused on understanding si
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismatulsyantik&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## Current Focus
-
-I am continuously improving my skills in:
-
-- Data science and machine learning
-- Model interpretation and evaluation
-- Dashboarding and storytelling with data
-- Building portfolio-ready projects with real impact
-
-## Open to Opportunities
-
-I am open to internships, collaborations, and learning opportunities in data science, AI, and machine learning.
-
-If you are working on impactful projects, I would love to connect and contribute.
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Portfolio-Ready-8A2BE2?style=for-the-badge" alt="Portfolio Ready" />
   <img src="https://img.shields.io/badge/Always%20Learning-00D1B2?style=for-the-badge" alt="Always Learning" />
 </p>
+
+<p align="center"><sub>Thanks for stopping by! May your code run on the first try (but if it doesn’t, you’re in good company). ✨</sub></p>
